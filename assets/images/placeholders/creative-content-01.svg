@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#F1F5F9" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E2E8F0" stroke-width="0.8" opacity="0.6"/>
+    </pattern>
+  </defs>
+  
+  <rect width="1080" height="1080" fill="url(#bgGrad)" />
+  <rect width="1080" height="1080" fill="url(#grid)" />
+  
+  <rect x="36" y="36" width="1008" height="1008" fill="none" stroke="#0F172A" stroke-width="1.5" stroke-opacity="0.2" />
+  <rect x="48" y="48" width="984" height="984" fill="none" stroke="#0F172A" stroke-width="0.5" stroke-opacity="0.1" />
+  
+  <path d="M28 36 h16 M36 28 v16" stroke="#0F172A" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M1036 36 h16 M1044 28 v16" stroke="#0F172A" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M28 1044 h16 M36 1036 v16" stroke="#0F172A" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M1036 1044 h16 M1044 1036 v16" stroke="#0F172A" stroke-width="1.5" stroke-opacity="0.4"/>
+
+  <text x="72" y="90" font-family="'Inter', -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#0F172A" text-anchor="start">SK MEDIALAB</text>
+  <text x="72" y="110" font-family="'Inter', -apple-system, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#64748B" text-anchor="start">CREATIVE CONTENT</text>
+  
+  <rect x="912" y="74" width="96" height="30" rx="4" fill="#0F172A" fill-opacity="0.06"/>
+  <text x="960" y="94" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#0F172A" text-anchor="middle">1080 × 1080</text>
+
+  <rect x="180" y="240" width="720" height="600" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  
+  <!-- Sparkle / AI Icon -->
+  <g transform="translate(515, 360)">
+    <path d="M25 0 L32 18 L50 25 L32 32 L25 50 L18 32 L0 25 L18 18 Z" fill="#0F172A"/>
+    <path d="M45 40 L48 48 L56 51 L48 54 L45 62 L42 54 L34 51 L42 48 Z" fill="#64748B"/>
+  </g>
+
+  <text x="540" y="520" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-size="32" font-weight="800" letter-spacing="3" fill="#0F172A" text-anchor="middle">AI CREATIVE CONCEPT 01</text>
+  <text x="540" y="560" font-family="'Inter', -apple-system, sans-serif" font-size="16" font-weight="600" letter-spacing="2" fill="#475569" text-anchor="middle">AI ASSISTED BRAND VISUAL</text>
+  
+  <line x1="380" y1="610" x2="700" y2="610" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="540" y="650" font-family="'Inter', -apple-system, sans-serif" font-size="14" font-weight="500" letter-spacing="1" fill="#64748B" text-anchor="middle">Replace with your AI artwork or concept</text>
+  <text x="540" y="675" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="400" fill="#94A3B8" text-anchor="middle">Recommended: JPG / PNG (1080 × 1080)</text>
+
+  <text x="540" y="990" font-family="'Inter', -apple-system, sans-serif" font-size="12" font-weight="600" letter-spacing="3" fill="#94A3B8" text-anchor="middle">SK MEDIALAB • CREATE INSPIRE GROW</text>
+</svg>
